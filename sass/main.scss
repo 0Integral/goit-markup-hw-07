@@ -1,20 +1,8 @@
 @import "./utils/variables";
 @import "./utils/visually-hidden";
 
-@import "./layout/header";
-@import "./layout/hero";
-@import "./layout/advantages";
-@import "./layout/doing";
-@import "./layout/command";
-@import "./layout/client";
-@import "./layout/footer";
-@import "./layout/portfolio-choose-project";
-@import "./layout/portfolio-project-galary";
-
+@import "./bace/reset";
 @import "./bace/common";
-@import "./bace/section";
-@import "./bace/container";
-@import "./bace/body";
 
 @import "./component/accent";
 @import "./component/logo";
@@ -25,3 +13,15 @@
 @import "./component/current";
 @import "./component/submit-button";
 @import "./component/section-title";
+@import "./component/section";
+@import "./component/container";
+
+@import "./layout/header";
+@import "./layout/hero";
+@import "./layout/advantages";
+@import "./layout/doing";
+@import "./layout/command";
+@import "./layout/client";
+@import "./layout/footer";
+@import "./layout/portfolio-choose-project";
+@import "./layout/portfolio-project-galary";
